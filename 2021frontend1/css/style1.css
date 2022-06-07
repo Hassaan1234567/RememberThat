@@ -1,0 +1,36 @@
+ *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+ 
+ nav
+ {
+     width: 100vw;
+     background: lightgrey;
+    
+     
+     height: 70px;
+     margin-bottom:20px ;
+     border: 2px;
+
+
+ }
+ 
+ .grade
+ {
+     display: flex;
+     flex-direction: row;
+
+ }
+ 
+ .Grade
+{
+    width: 300px;
+    height: 200px;
+    background: lightgray;
+    border: 2px;
+    margin: 20px;
+
+
+}
